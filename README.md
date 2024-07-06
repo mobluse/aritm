@@ -3,7 +3,7 @@
 <head>
 <!--Copyright (C) 1997 by Mikael Bonnier, Lund, Sweden.-->
 <meta content="text/html; charset=windows-1252" http-equiv="content-type">
-  <title>Aritm</title>
+  <!--title>Aritm</title-->
   <meta content="Mikael O. Bonnier mikaelb@df.lth.se" name="author">
   <meta name="description"
  content="Aritm  -  trains you in simple mental calculation.">
@@ -121,7 +121,7 @@ on the program Aritm and this documentation is gratefully received by <a
 <table class="orbin">
 <tbody>
 <tr>
-<td><a href="http://hem.passagen.se/orbinweb/index-enu.html" 
+<td><!a href="http://hem.passagen.se/orbinweb/index-enu.html" 
 target="links"><span>Orbin</span></a><br>
 <span class="xsmall">Web Technology</span></td>
 </tr>
