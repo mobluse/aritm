@@ -8,7 +8,7 @@
   <meta name="description"
  content="Aritm  -  trains you in simple mental calculation.">
   <meta name="keywords" content="">
-<link rel="stylesheet" href="../mob.css" type="text/css" media="screen">
+<link rel="stylesheet" href="mob.css" type="text/css" media="screen">
 </head>
 <body>
 <!-- counter-ord-lang -->
@@ -33,8 +33,8 @@ href="sun.audio/aritm.html">Aritm w/
 sun.audio</a>. Aritm is also
 available as a free stand-alone Java application (AritmApp), and in that the
 sound-effects works with all Java-systems. Now you can get
-<a href="../ticalc.html#aritm" target="links">Aritm
-for TI-8x calculators</a> and <a href="../microemu/all.html" 
+<a href="https://mobluse.github.io/ticalc/#aritm" target="links">Aritm
+for TI-8x calculators</a> and <a href="http://df.lth.se.orbin.se/~mikaelb/microemu/all.html" 
 target="links">Aritm for mobile (cellular) phones</a>.</p>
 <p><strong>Aritm</strong> trains you in simple mental calculation.
 This program teaches its users the addition, subtraction,
@@ -89,14 +89,14 @@ getting the connection between spoken and written numbers.</dd>
   <dt><b>Roman</b></dt>
   <dd>The numbers are written in minimal roman notation. Learn more
 about roman numbers in the documentation to the TI-82 program <a
- href="../ticalc.html#roman" target="links">ROMAN.82U</a>.</dd>
+ href="https://mobluse.github.io/ticalc/#roman" target="links">roman.txt</a>.</dd>
   <dt><b>Start/Stop</b></dt>
   <dd>When you have checked which problems you want, you click <b>Start</b>,
 and write the answer using digits and press Enter. If your answer is
 incorrect, you will get that problem again, later. If you want to end
 prematurely, click <b>Stop</b>. You should make about 10 problems per
 minute or more. If you find it too difficult, you may use the <a
- href="../pocketcalc.html" target="pocketcalc">Pocket Calculator</a>.
+ href="https://mobluse.github.io/pocketcalc/" target="pocketcalc">Pocket Calculator</a>.
 In the end you will know this anyway.</dd>
   <dt><b>License Info</b></dt>
   <dd>Aritm is open source and free/libre software according to GPL v3+, see 
@@ -105,7 +105,7 @@ mikaelb@df.lth.se are welcome.</dd>
   <dt><b>Comments Welcome</b></dt>
   <dd>License questions, bug reports, and suggestions for improvements
 on the program Aritm and this documentation is gratefully received by <a
- href="../rendezvous/rendezvous-enu.cgi">Mikael Bonnier</a>.</dd>
+ href="https://github.com/mobluse/aritm/issues">Mikael Bonnier</a>.</dd>
   <dt><a href="acknowledge.html"><b>Acknowledgements</b></a></dt>
   <dd>Here you will find a list of people I am grateful to.</dd>
   <dt><b>DISCLAIMER</b></dt>
@@ -127,8 +127,7 @@ target="links"><span>Orbin</span></a><br>
 </tr>
 </tbody>
 </table>
-[<a href="../java.html">Java applets</a>] [<a href="../index.html"
- target="_top">Mikael
-Bonnier's home page</a>]
+[<a href="http://df.lth.se.orbin.se/~mikaelb/java.html">Java applets</a>] [<a href="http://df.lth.se.orbin.se/~mikaelb/index.html"
+ target="_top">Mikael Bonnier's home page</a>]
 </body>
 </html>
