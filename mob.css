@@ -3,7 +3,7 @@ body {
     font-family: Arial,Helvetica,sans-serif;
     color: rgb(0, 0, 0); 
     background-color: rgb(206, 206, 206); 
-    background-image: url(images/backtile.gif);
+    background-image: url(https://mobluse.github.io/pocketcalc/images/backtile.gif);
 }
 body.legal {
     background-image: none;
