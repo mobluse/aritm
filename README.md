@@ -106,7 +106,7 @@ mikaelb@df.lth.se are welcome.</dd>
   <dd>License questions, bug reports, and suggestions for improvements
 on the program Aritm and this documentation is gratefully received by <a
  href="https://github.com/mobluse/aritm/issues">Mikael Bonnier</a>.</dd>
-  <dt><a href="acknowledge.html"><b>Acknowledgements</b></a></dt>
+  <dt><a href="https://mobluse.github.io/aritm/acknowledge.html"><b>Acknowledgements</b></a></dt>
   <dd>Here you will find a list of people I am grateful to.</dd>
   <dt><b>DISCLAIMER</b></dt>
   <dd>THIS PROGRAM COMES WITH ABSOLUTELY NO WARRANTY.</dd>
